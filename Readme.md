@@ -66,6 +66,7 @@ for more information.
   * View system supporting 14+ template engines
   * Content negotiation
   * Executable for generating applications quickly
+  * scan the list
 
 ## Docs & Community
 
